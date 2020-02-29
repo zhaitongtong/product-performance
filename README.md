@@ -1,1 +1,1 @@
-Used Tableau to create a dashboard which shows a company's sales performance in January,2018. 
+The purpose of this project is to show a company's sales performance in January,2018.
